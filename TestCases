@@ -1,0 +1,29 @@
+# Test Case: TC_001_Login_Functionality
+
+**Title:** Verify user can successfully log in with valid credentials
+
+**Test Priority:** High  
+**Module:** Login  
+**Test Type:** Functional  
+**Test Level:** System Testing
+
+## Pre-Conditions:
+- User is registered in the system
+- User has valid login credentials
+- Browser is open and navigated to the login page
+
+## Test Steps:
+1. Navigate to the login page
+2. Enter valid username
+3. Enter valid password
+4. Click the “Login” button
+
+## Expected Result:
+- User is redirected to the dashboard or home page
+- A welcome message is displayed
+
+## Post-Conditions:
+- User is logged in and session is active
+
+## Status:
+- Ready for execution
